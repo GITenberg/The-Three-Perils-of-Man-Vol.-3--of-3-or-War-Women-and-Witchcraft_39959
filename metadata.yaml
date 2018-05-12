@@ -1,0 +1,29 @@
+_repo: The-Three-Perils-of-Man-Vol.-3--of-3-or-War-Women-and-Witchcraft_39959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39959-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hogg, James
+    alias: Craig, J. H.
+    birthdate: 1770
+    deathdate: 1835
+    gutenberg_agent_id: '860'
+    url: http://www.gutenberg.org/2009/agents/860
+    wikipedia: http://en.wikipedia.org/wiki/James_Hogg
+description: ''
+gutenberg_issued: '2012-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- History -- Robert II, 1371-1390 -- Fiction'
+title: The Three Perils of Man; or, War, Women, and Witchcraft, Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/39959
